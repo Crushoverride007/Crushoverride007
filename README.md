@@ -6,7 +6,7 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=Crushoverride007.Crushoverride007&left_text=All%20Visitors"/>
   </a>
   </p>
-  
+
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=crushoverride007&theme=tokyonight&show_icons=true" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Crushoverride007&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
@@ -16,6 +16,8 @@
    <img src="https://raw.githubusercontent.com/Crushoverride007/github-stats-transparent/output/generated/overview.svg"/>
    <img src="https://raw.githubusercontent.com/Crushoverride007/github-stats-transparent/output/generated/languages.svg"/>
   </p>
+
+  ---
   
   <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Crushoverride007&theme=radical&no-bg=true&row=3&column=4&margin-w=15&margin-h=15"/>
@@ -37,6 +39,7 @@
   <img src="https://crushoverride007.vercel.app/api/top-played">
 </p>
 
+---
 
 <!--START_SECTION:waka-->
 
