@@ -22,6 +22,12 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=Crushoverride007.Crushoverride007&left_text=All%20Visitors"/>
   </a>
   </p>
+  
+<div align="center">
+  <a href="https://open.spotify.com/user/31355fy7md735z475z4rql7zatqq">
+    <img src="https://spotify-now-playing-gold-seven.vercel.app/api/now-playing">
+  </a>
+</div>
     
   
 <p align="center">
@@ -100,8 +106,4 @@ My name's Mouhcine, A recent bachelor Graduate Security Researcher from 🇲🇦
 ## :dart: :rocket: Project Management 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-
-
-
 
