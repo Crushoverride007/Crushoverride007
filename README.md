@@ -23,11 +23,6 @@
   </a>
   </p>
   
-<div align="center">
-  <a href="https://open.spotify.com/user/mouhcine.mesmouki">
-    <img src="https://crushoverride007.vercel.app/api/now-playing">
-  </a>
-</div>
 
 <p align="center">
   <a href="https://crushoverride007.vercel.app/api/now-playing?open">
@@ -38,7 +33,7 @@
     
   
 <p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=mouhcine.mesmouki&cover_image=true&theme=default"/>
+<img src="https://crushoverride007.vercel.app/api/view?uid=mouhcine.mesmouki&cover_image=true&theme=default"/>
 </p>
 
 <p align="center">
