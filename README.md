@@ -125,6 +125,6 @@ My name's Mouhcine, A recent bachelor Graduate Security Researcher from 🇲🇦
 
   <!-- (https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-  <img src="https://activity-graph.herokuapp.com/graph?username={Crushoverride007}&theme=minimal"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Crushoverride007&theme=minimal"/>
   
 </details>
