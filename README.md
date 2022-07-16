@@ -28,6 +28,10 @@
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=mouhcine.mesmouki&cover_image=true&theme=default"/>
 </p>
 
+<p align="center">
+  <img src="https://crushoverride007.vercel.app/api/top-played">
+</p>
+
 <details>
   <summary>Activity Graph the last 31 days on scale of 150 Contributions</summary>
   <img src="https://activity-graph.herokuapp.com/graph?username=Crushoverride007&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
