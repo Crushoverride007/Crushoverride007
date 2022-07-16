@@ -1,4 +1,12 @@
-
+  <p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Crushoverride007&color=blueviolet">
+    <img src="https://komarev.com/ghpvc/?username=Crushoverride007&color=blueviolet"/>
+  </a>
+  <a href="https://visitor-badge.glitch.me/badge?page_id=Crushoverride007.Crushoverride007&left_text=All%20Visitors">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=Crushoverride007.Crushoverride007&left_text=All%20Visitors"/>
+  </a>
+  </p>
+  
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=crushoverride007&theme=tokyonight&show_icons=true" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Crushoverride007&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
@@ -11,16 +19,6 @@
   
   <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Crushoverride007&theme=radical&no-bg=true&row=3&column=4&margin-w=15&margin-h=15"/>
-  </p>
-  
-  
-  <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Crushoverride007&color=blueviolet">
-    <img src="https://komarev.com/ghpvc/?username=Crushoverride007&color=blueviolet"/>
-  </a>
-  <a href="https://visitor-badge.glitch.me/badge?page_id=Crushoverride007.Crushoverride007&left_text=All%20Visitors">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=Crushoverride007.Crushoverride007&left_text=All%20Visitors"/>
-  </a>
   </p>
   
 
@@ -38,15 +36,6 @@
 <p align="center">
   <img src="https://crushoverride007.vercel.app/api/top-played">
 </p>
-
-<details>
-  <summary>Activity Graph the last 31 days on scale of 150 Contributions</summary>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Crushoverride007&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
-
-  <!-- (https://github.com/ashutosh00710/github-readme-activity-graph) -->
-  
-</details>
-
 
 
 <!--START_SECTION:waka-->
@@ -108,3 +97,11 @@ My name's Mouhcine, A recent bachelor Graduate Security Researcher from 🇲🇦
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+
+<details>
+  <summary>Activity Graph the last 31 days on scale of 150 Contributions</summary>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Crushoverride007&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
+
+  <!-- (https://github.com/ashutosh00710/github-readme-activity-graph) -->
+  
+</details>
