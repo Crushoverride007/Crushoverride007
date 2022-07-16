@@ -106,6 +106,7 @@ My name's Mouhcine, A recent bachelor Graduate Security Researcher from 🇲🇦
 
 <details>
   <summary>Activity Graph the last 31 days on scale of 150 Contributions</summary>
+  <br></br>
   <img src="https://activity-graph.herokuapp.com/graph?username=Crushoverride007&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
 
   <!-- (https://github.com/ashutosh00710/github-readme-activity-graph) -->
