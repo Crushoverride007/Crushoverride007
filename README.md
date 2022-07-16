@@ -106,8 +106,9 @@ My name's Mouhcine, A recent bachelor Graduate Security Researcher from 🇲🇦
 
 ## <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="26" height="20"/> Version Control System 
 
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## :dart: :rocket: Project Management 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
