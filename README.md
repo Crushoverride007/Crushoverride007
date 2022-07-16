@@ -100,6 +100,7 @@ My name's Mouhcine, A recent bachelor Graduate Security Researcher from 🇲🇦
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+--- <!--  Line break -->
 
 <details>
   <summary>Activity Graph the last 31 days on scale of 150 Contributions</summary>
