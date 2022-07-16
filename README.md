@@ -28,6 +28,8 @@
     <img src="https://crushoverride007.vercel.app/api/now-playing">
   </a>
 </div>
+
+![Spotify recently played](https://crushoverride007.vercel.app/api?user=mouhcine.mesmouki)
     
   
 <p align="center">
