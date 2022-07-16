@@ -30,11 +30,6 @@
     <img src="https://crushoverride007.vercel.app/api/now-playing">
   </a>
 </p>
-    
-  
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=mouhcine.mesmouki&cover_image=true&theme=default"/>
-</p>
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=mouhcine.mesmouki&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=mouhcine.mesmouki&cover_image=true&theme=default&bar_color=5e30eb&bar_color_cover=true"/>
