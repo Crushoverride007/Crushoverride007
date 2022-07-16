@@ -28,6 +28,13 @@
     <img src="https://crushoverride007.vercel.app/api/now-playing">
   </a>
 </div>
+
+<p align="center">
+  <a href="https://crushoverride007.vercel.app/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://crushoverride007.vercel.app/api/now-playing">
+  </a>
+</p>
     
   
 <p align="center">
