@@ -24,7 +24,7 @@
   </p>
   
 <div align="center">
-  <a href="https://open.spotify.com/user/31355fy7md735z475z4rql7zatqq">
+  <a href="https://open.spotify.com/user/mouhcine.mesmouki">
     <img src="https://crushoverride007.vercel.app/api/now-playing">
   </a>
 </div>
