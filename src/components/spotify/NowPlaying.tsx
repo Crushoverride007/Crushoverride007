@@ -33,10 +33,10 @@ export const Player: React.FC<IPlayerProps> = ({
       width="466">
       <Text
         id="title"
-        color="standard"
+        color="#c58545"
         size="title"
         weight="bold">
-        { isPlaying ? 'currently jamming out to' : 'last jammed out to' }
+        { isPlaying ? '' : '' }
       </Text>
 
       <div className="now-playing-wrapper">
@@ -57,12 +57,12 @@ export const Player: React.FC<IPlayerProps> = ({
           style={{
             alignItems: 'center',
             display: 'flex',
-            background: 'rgb(255,255,255,.6)',
-            border: '1px solid rgba(125, 125, 125, .3)',
+            background: 'rgb(40,40,40,.6)',
+            border: '1px solid rgba(40, 40, 40, .3)',
             borderRadius: '.3rem',
             margin: '.5rem 0',
             padding: '.6rem',
-            paddingLeft: 4,
+            paddingLeft: 8,
             paddingTop: 8,
           }}>
           <img
@@ -73,6 +73,7 @@ export const Player: React.FC<IPlayerProps> = ({
 
           <div
             style={{
+              color: '#c58545',
               display: 'flex',
               flex: 1,
               flexDirection: 'column',
@@ -80,13 +81,14 @@ export const Player: React.FC<IPlayerProps> = ({
               marginTop: -4,
             }}>
             <Text
+              color="#c58545"
               id="track"
               weight="bold">
               { `${track ?? ''} `.trim() }
             </Text>
 
             <Text
-              color={ !track ? 'gray' : undefined }
+              color="#c58545"
               id="artist"
               size="small">
               { artist || 'Nothing Currently' }
@@ -170,6 +172,7 @@ export const Player: React.FC<IPlayerProps> = ({
             animation-delay: 300ms;
             animation-name: cover-appear;
             box-shadow: 0 1px 3px rgba(0,0,0,0.1), 0 3px 10px rgba(0,0,0,0.05);
+            border-radius: 6px;
           }
           
           #cover:not([src]) {
@@ -193,9 +196,8 @@ export const Player: React.FC<IPlayerProps> = ({
           
           .bar {
             --offset: 0;
-
             animation: bars ${ audioFeatures ? (audioFeatures.tempo / 60) * 1 : 1 }s ease calc(var(--offset) * -.5s) infinite;
-            background: rgba(${ audioFeatures ? audioFeatures.energy * 255 : 255 }, ${ audioFeatures ? audioFeatures.valence * 255 : 255 }, ${ audioFeatures ? audioFeatures.danceability * 255 : 255 }, .7);
+            background: rgba(197, 133, 69, .7);
             height: 10px;
             margin: 2px 0;
             width: 50px;
@@ -203,7 +205,7 @@ export const Player: React.FC<IPlayerProps> = ({
           
           .progress-bar {
             animation-delay: 550ms;
-            border: 1px solid #e1e4e8;
+            border: 1px solid #c58545;
             border-radius: 4px;
             height: 4px;
             margin: -1px;
@@ -218,7 +220,7 @@ export const Player: React.FC<IPlayerProps> = ({
           #progress {
             animation: progress ${duration}ms linear;
             animation-delay: -${progress}ms;
-            background-color: #24292e;
+            background-color: #c58545;
             height: 6px;
             left: 0;
             position: absolute;
@@ -229,7 +231,7 @@ export const Player: React.FC<IPlayerProps> = ({
           
           .paused { 
             animation-play-state: paused !important;
-            background: #e1e4e8 !important;
+            background: #282828 !important;
           }
           
           @keyframes cover-appear {
