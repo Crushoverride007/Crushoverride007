@@ -27,12 +27,14 @@
   </p>
   
 
-<!-- <p align="center">
+
+<!--
+<p align="center">
   <a href="https://crushoverride007.vercel.app/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
     <img src="https://crushoverride007.vercel.app/api/now-playing">
   </a>
-</p> -->
+</p>
+-->
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=mouhcine.mesmouki&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=mouhcine.mesmouki&cover_image=true&theme=default&bar_color=5e30eb&bar_color_cover=true"/>
