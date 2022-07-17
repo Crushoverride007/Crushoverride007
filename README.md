@@ -19,14 +19,12 @@
    <img src="https://raw.githubusercontent.com/Crushoverride007/github-stats-transparent/output/generated/overview.svg"/>
    <img src="https://raw.githubusercontent.com/Crushoverride007/github-stats-transparent/output/generated/languages.svg"/>
   </p>
-
-  ---
   
   <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Crushoverride007&theme=radical&no-bg=true&row=3&column=4&margin-w=15&margin-h=15"/>
   </p>
   
-
+  ---
 
 <!--
 <p align="center">
