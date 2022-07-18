@@ -99,7 +99,7 @@ My name's Mouhcine, A recent bachelor Graduate Security Researcher from 🇲🇦
 ![Arch_Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
-## :globe_with_meridians: Skills - Web
+## :globe_with_meridians: Skills - WebDev
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
