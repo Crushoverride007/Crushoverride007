@@ -20,7 +20,6 @@
   
   <p align="center">
    <img src="https://raw.githubusercontent.com/Crushoverride007/github-stats-transparent/output/generated/overview.svg"/>
-   <img src="https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg"/>
    <img src="https://raw.githubusercontent.com/Crushoverride007/github-stats-transparent/output/generated/languages.svg"/>
   </p>
   
