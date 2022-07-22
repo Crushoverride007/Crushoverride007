@@ -18,7 +18,8 @@
   
 
  ![](https://raw.githubusercontent.com/Crushoverride007/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Crushoverride007/github-stats/master/generated/overview.svg#gh-light-mode-only)
+ ![](https://raw.githubusercontent.com/Crushoverride007/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 
 
   <p align="center">
