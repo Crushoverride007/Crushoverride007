@@ -138,5 +138,5 @@ My name's Mouhcine, A recent bachelor Graduate Security Researcher from 🇲🇦
   <br></br>
   <img src="https://activity-graph.herokuapp.com/graph?username=Crushoverride007&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
 
-  <!-- (https://github.com/ashutosh00710/github-readme-activity-graph) -->
+  <!-- (https://github.com/ashutosh00710/github-readme-activity-graph) make this active --> 
 </details>
