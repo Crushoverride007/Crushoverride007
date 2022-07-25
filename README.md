@@ -59,7 +59,7 @@
 <h2 align="center">Oh, Hello there 👋</h1>
 
 
-My name's Mouhcine, A recent bachelor Graduate Security Researcher from 🇲🇦. Currently Working on other projects.
+My name's Mouhcine, A recent bachelor Graduate Security Researcher/Student from 🇲🇦. Currently Working on other projects.
 
 ## :mailbox_with_mail: Socials
 
