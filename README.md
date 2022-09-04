@@ -55,7 +55,6 @@
   <img src="https://crushoverride007.vercel.app/api/top-played">
 </p>
 
----
 
 <!--START_SECTION:waka-->
 
