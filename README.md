@@ -1,6 +1,6 @@
 <!-- General Introduction --> 
 
-<!-- Stats xx -->
+<!-- Stats -->
   
   
   <p align="center">
