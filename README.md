@@ -1,8 +1,5 @@
 <!-- General Introduction --> 
 
-[![linkedin](app-generated-url)](your-linkedin-profile-url
-https://linkedin-github.herokuapp.com/api/render/Mouhcine%20MESMOUKI/CyberSecurity%20Researcher/Intern%20at%20Data%20Protect/Masters%20Degree/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4E03AQHgwB4qAyDb8Q%2Fprofile-displayphoto-shrink_200_200%2F0%2F1656217340169%3Fe%3D1668038400%26v%3Dbeta%26t%3DG460zzeHvsWDLgrZXLiNZlYEMlgorBZfVs-WzECcJ-A)
-
 <!-- Stats -->
   
   
