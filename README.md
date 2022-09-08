@@ -71,7 +71,6 @@ My name's Mouhcine, A recent bachelor Graduate Security Researcher/Student from 
 
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Click Here](https://www.linkedin.com/in/mouhcinemesmouki/)
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="mouhcinemesmouki" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/mouhcinemesmouki?trk=profile-badge">Mouhcine Mesmouki</a></div>
               
 
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) [Click Here](https://twitter.com/crushoveride007)
