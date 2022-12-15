@@ -8,7 +8,7 @@
 </a>
 </p>
 
-<!-- Stats x -->
+<!-- Stats -->
   
   <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Crushoverride007&color=blueviolet">
