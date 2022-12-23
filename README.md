@@ -8,8 +8,6 @@
 </a>
 </p>
 
-<!-- New Header -->
-
 
 <!-- Stats -->
   
