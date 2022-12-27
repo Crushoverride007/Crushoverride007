@@ -8,8 +8,6 @@
 </a>
 </p>
 
-<!-- Error Handling --> 
-
 <!-- Stats -->
   
   <p align="center">
