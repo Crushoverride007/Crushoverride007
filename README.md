@@ -145,6 +145,8 @@
 
 ---
 
+<!-- Adding github activity graph --> 
+
 <details>
   <summary>Activity Graph the last 31 days on scale of 150 Contributions</summary>
   <br></br>
