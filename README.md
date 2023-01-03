@@ -1,4 +1,4 @@
-<!-- General Introduction -->
+<!-- Introduction -->
 
 <h2 align="center">Oh, Hello there 👋</h1>
 
