@@ -2,7 +2,6 @@
 
 <h2 align="center">Oh, Hello there 👋</h1>
 
-<!-- Should definitely host the herokuapp into my own server -->
 
 <p align="center">
 <a href="https://git.io/typing-svg">
