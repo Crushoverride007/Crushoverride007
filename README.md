@@ -143,7 +143,7 @@
 <!-- Adding github activity graph --> 
 
 <details>
-  <summary>Activity Graph the last 31 days on scale of 150 Contributions</summary>
+  <summary>Activity Graph the last 31 days</summary>
   <br></br>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Crushoverride007&custom_title=Crushoverride007%20Activity%20Graph&hide_border=true&theme=tokyo-night&title_color=FFFFFF&area=true&radius=2&point=FFFFFF&color=FFFFFF"/>
   <!-- (https://github.com/ashutosh00710/github-readme-activity-graph) make this active --> 
