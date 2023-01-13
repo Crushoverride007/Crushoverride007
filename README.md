@@ -145,8 +145,7 @@
 <details>
   <summary>Activity Graph the last 31 days on scale of 150 Contributions</summary>
   <br></br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Crushoverride007&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
-
+  [![Crushoverride007's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Crushoverride007&custom_title=This%20is%20a%20title&hide_border=true)]
   <!-- (https://github.com/ashutosh00710/github-readme-activity-graph) make this active --> 
 </details>
 
