@@ -74,8 +74,11 @@
 <!-- ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Click Here](https://www.linkedin.com/in/mouhcinemesmouki/) -->
 
                
+<a href="https://twitter.com/crushoveride007">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
 
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) [Click Here](https://twitter.com/crushoveride007)
+<!-- ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) [Click Here](https://twitter.com/crushoveride007) -->
 
 ## :hourglass: Hobbies...
 
