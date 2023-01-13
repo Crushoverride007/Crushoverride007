@@ -145,7 +145,7 @@
 <details>
   <summary>Activity Graph of the last 31 days of Crushoverride007</summary>
   <br></br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Crushoverride007&custom_title=Crushoverride007%20Activity%20Graph&hide_border=true&theme=tokyo-night&title_color=FFFFFF&area=true&radius=2&point=FFFFFF&color=FFFFFF"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Crushoverride007&custom_title=Crushoverride007%20Activity%20Graph&hide_border=true&theme=tokyo-night&title_color=FFFFFF&area=true&radius=6&point=FFFFFF&color=FFFFFF"/>
   <!-- (https://github.com/ashutosh00710/github-readme-activity-graph) make this active --> 
 </details>
 
