@@ -55,9 +55,11 @@
   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=mouhcine.mesmouki&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=mouhcine.mesmouki&cover_image=true&theme=default&bar_color=5e30eb&bar_color_cover=true"/>
  </p>
 
-<p align="center">
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&width=600)
+
+<!-- <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=mouhcine.mesmouki&width=600"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://crushoverride007.vercel.app/api/top-played">
