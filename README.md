@@ -60,9 +60,9 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=mouhcine.mesmouki&width=600"/>
 </p> -->
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://crushoverride007.vercel.app/api/top-played">
-</p> -->
+</p>
 
 
 <!-- Bio -->
