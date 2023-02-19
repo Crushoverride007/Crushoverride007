@@ -92,6 +92,8 @@
 * Music-guru
 * Might be a pro fifa player ;)
 
+<a href="https://psnprofiles.com/crushoverride007"><img src="https://card.psnprofiles.com/2/crushoverride007.png" border="0"></a>
+
 ## ☁️ Skills - Cloud
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![MicrosoftAzure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
