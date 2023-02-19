@@ -93,7 +93,9 @@
 * Might be a pro fifa player ;)
 
 <p align="center">
-<a href="https://psnprofiles.com/crushoverride007"><img src="https://card.psnprofiles.com/2/crushoverride007.png" border="0"></a>
+  <a href="https://psnprofiles.com/crushoverride007">
+    <img src="https://card.psnprofiles.com/2/crushoverride007.png" border="0">
+  </a>
 </p>
 
 ## ☁️ Skills - Cloud
