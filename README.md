@@ -94,7 +94,7 @@
 
 <p align="center">
   <a href="https://psnprofiles.com/crushoverride007">
-    <img src="https://card.psnprofiles.com/2/crushoverride007.png" border="0">
+  <img src="https://card.psnprofiles.com/1/crushoverride007.png" border="0">
   </a>
 </p>
 
