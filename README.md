@@ -23,6 +23,7 @@
   <img src="https://api.meercode.io/badge/Crushoverride007/Crushoverride007?type=ci-score&branch=main&lastDay=14"/>
   </p>
   <p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Crushoverride007.png" alt="TryHackMe">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=crushoverride007&theme=tokyonight&show_icons=true" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Crushoverride007&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
   </p>
@@ -35,6 +36,7 @@
 -->
 
   <p align="center">
+  
    <img src="https://raw.githubusercontent.com/Crushoverride007/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
 
    <!-- <img src="https://raw.githubusercontent.com/Crushoverride007/github-stats-transparent/output/generated/overview.svg"/> -->
@@ -42,8 +44,11 @@
   </p>
   
   <p align="center">
+  
   <img src="https://github-profile-trophy.vercel.app/?username=Crushoverride007&theme=radical&no-bg=true&row=3&column=4&margin-w=15&margin-h=15"/>
+  
   </p>
+  
   
   ---
 <!--
@@ -56,6 +61,7 @@
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=mouhcine.mesmouki&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=mouhcine.mesmouki&cover_image=true&theme=default&bar_color=5e30eb&bar_color_cover=true"/>
+  
  </p>
 
 
