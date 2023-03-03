@@ -24,7 +24,7 @@
   <img src="https://api.meercode.io/badge/Crushoverride007/Crushoverride007?type=ci-score&branch=main&lastDay=14"/>
   </p>
   <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Crushoverride007.png" alt="TryHackMe">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Crushoverride007.png" alt="TryHackMe"> <!-- Putting new badge into place -->
   </p>
   <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=crushoverride007&theme=tokyonight&show_icons=true" />
