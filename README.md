@@ -83,11 +83,11 @@
 
 ## :mailbox_with_mail: Socials
 
-<p align="center">
+<div style="text-align: center;">
 
 <a href="https://app.daily.dev/crushoverride007"><img src="https://api.daily.dev/devcards/79009def043145a8bb4330ae537abb1f.png?r=61v" width="400" alt="Mouhcine MESMOUKI's Dev Card"/></a>
 
-</p>
+</div>
 
 <a href="https://www.linkedin.com/in/mouhcinemesmouki/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
