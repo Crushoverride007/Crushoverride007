@@ -1,18 +1,21 @@
 name: DevCard Automation Pulling
 
+permissions:
+  contents: write
+
 on:
-  push:
-    branches: [ main ]
-    
   workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   devcard:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: devcard
-        uses: dailydotdev/action-devcard@2.1.0
+        uses: dailydotdev/action-devcard@2.0.2
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
