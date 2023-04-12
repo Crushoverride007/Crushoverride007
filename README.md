@@ -24,6 +24,7 @@
   </p>
   <p align="center">
   <!-- Putting new badge into place -->
+  ![tryhackme stats](https://raw.githubusercontent.com/Crushoverride007/Crushoverride007/master/assets/thm_propic.png)
   <img src="https://tryhackme-badges.s3.amazonaws.com/Crushoverride007.png" alt="TryHackMe Mouhcine's"> 
   </p>
   
