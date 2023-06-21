@@ -190,7 +190,7 @@
   <br></br>
   <!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Crushoverride007&custom_title=Crushoverride007%20Activity%20Graph&hide_border=true&theme=tokyo-night&title_color=FFFFFF&area=true&radius=6&point=FFFFFF&color=FFFFFF"/> -->
   
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=crushoverride007&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=crushoverride007&custom_title=Crushoverride007%20Activity%20Graph&hide_border=true&theme=tokyo-night&title_color=FFFFFF&area=true&radius=6&point=FFFFFF&color=FFFFFF"/>
   
   <!-- (https://github.com/ashutosh00710/github-readme-activity-graph) make this active --> 
 </details>
