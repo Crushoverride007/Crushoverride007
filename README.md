@@ -25,8 +25,6 @@
   </a>
   <img src="https://api.meercode.io/badge/Crushoverride007/Crushoverride007?type=ci-score&branch=main&lastDay=14"/>
   </p>
-
-
   
   <!-- Putting new badge into place 
       the github action from p4p1 doesn't work as of 12 april 2023 because tryhackme website removed the way they implemented the badge generation
@@ -42,10 +40,8 @@
   </p>
 
 <!--
-
  ![](https://raw.githubusercontent.com/Crushoverride007/github-stats/master/generated/overview.svg#gh-dark-mode-only)
  ![](https://raw.githubusercontent.com/Crushoverride007/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
 -->
 
   <p align="center">
