@@ -15,7 +15,7 @@
 
 <!-- New Typing Intro -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Avenir&size=18&duration=2500&pause=500&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Freshly+Graduated+;Cyber+Security+%2F+Cloud+Security+;Always+looking+for+new+challenges" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Avenir&weight=600&size=18&duration=2500&pause=500&color=37BBAD&background=1A1B27&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Freshly+Graduated+;Cyber+Security+%2F+Cloud+Security+;Always+looking+for+new+challenges" alt="Typing SVG" />
 
 </a>
 </p>
