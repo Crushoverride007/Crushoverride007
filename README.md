@@ -10,6 +10,7 @@
 
 <!-- before typing intro -->
 
+
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Avenir&size=18&duration=2500&pause=500&color=000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Freshly+Graduated;Cyber+Security+%2F+Cloud+Security;Always+looking+for+new+challenges" alt="typing SVG"/>  -->
 
 <!-- New Typing Intro -->
