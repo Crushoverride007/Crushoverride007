@@ -21,7 +21,7 @@
 </p>
 
 <!-- Stats -->
-  
+
   <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Crushoverride007&color=blueviolet">
     <img src="https://komarev.com/ghpvc/?username=Crushoverride007&color=blueviolet"/>
@@ -35,15 +35,15 @@
   </a>
   <img src="https://api.meercode.io/badge/Crushoverride007/Crushoverride007?type=ci-score&branch=main&lastDay=14"/>
   </p>
-  
-  <!-- Putting new badge into place 
+
+  <!-- Putting new badge into place
       the github action from p4p1 doesn't work as of 12 april 2023 because tryhackme website removed the way they implemented the badge generation
   -->
- 
+
   <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Crushoverride007.png" "alt="TryHackMe Mouhcine's"> 
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Crushoverride007.png" "alt="TryHackMe Mouhcine's">
   </p>
-  
+
   <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=crushoverride007&theme=tokyonight&show_icons=true" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Crushoverride007&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
@@ -55,20 +55,20 @@
 -->
 
   <p align="center">
-  
+
    <img src="https://raw.githubusercontent.com/Crushoverride007/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
 
    <!-- <img src="https://raw.githubusercontent.com/Crushoverride007/github-stats-transparent/output/generated/overview.svg"/> -->
    <img src="https://raw.githubusercontent.com/Crushoverride007/github-stats-transparent/output/generated/languages.svg"/>
   </p>
-  
+
   <p align="center">
-  
+
   <img src="https://github-profile-trophy.vercel.app/?username=Crushoverride007&theme=radical&no-bg=true&row=3&column=4&margin-w=15&margin-h=15"/>
-  
+
   </p>
-  
- 
+
+
   ---
 <!--
 <p align="center">
@@ -79,7 +79,7 @@
 -->
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=mouhcine.mesmouki&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=mouhcine.mesmouki&cover_image=true&theme=default&bar_color=5e30eb&bar_color_cover=true"/>  
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=mouhcine.mesmouki&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=mouhcine.mesmouki&cover_image=true&theme=default&bar_color=5e30eb&bar_color_cover=true"/>
 </p>
 
 
@@ -113,7 +113,7 @@
 
 <!-- ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Click Here](https://www.linkedin.com/in/mouhcinemesmouki/) -->
 
-               
+
 <a href="https://twitter.com/crushoveride007">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
@@ -123,7 +123,7 @@
 ## :hourglass: Hobbies...
 
 * Finding new skills to master
-* Socializing with other tech enthusiasts 
+* Socializing with other tech enthusiasts
 * Music-guru
 * Might be a pro fifa player ;)
 
@@ -156,8 +156,8 @@
 
 ## :computer: Skills - OS
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
-![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
+![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
 ![Kali_Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -176,13 +176,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="26" height="20"/> Version Control System 
+## <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="26" height="20"/> Version Control System
 
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
-## :dart: :rocket: Project Management 
+## :dart: :rocket: Project Management
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
@@ -192,16 +192,16 @@
 
 ---
 
-<!-- Adding github activity graph --> 
+<!-- Adding github activity graph -->
 
 <details>
   <summary>Activity Graph of the last 31 days of Crushoverride007</summary>
   <br></br>
   <!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Crushoverride007&custom_title=Crushoverride007%20Activity%20Graph&hide_border=true&theme=tokyo-night&title_color=FFFFFF&area=true&radius=6&point=FFFFFF&color=FFFFFF"/> -->
-  
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=crushoverride007&custom_title=Crushoverride007%20Activity%20Graph&hide_border=true&theme=tokyo-night&title_color=FFFFFF&area=true&radius=6&point=FFFFFF&color=FFFFFF"/>
-  
-  <!-- (https://github.com/ashutosh00710/github-readme-activity-graph) make this active --> 
+
+  <!-- (https://github.com/ashutosh00710/github-readme-activity-graph) make this active -->
 </details>
 
 <br></br>

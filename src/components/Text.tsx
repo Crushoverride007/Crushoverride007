@@ -37,9 +37,9 @@ const weights: object = {
  * Text
  * Simple text line with styles as props.
  * @param weight
- * @param family 
+ * @param family
  * @param color
- * @param size 
+ * @param size
  */
 const Text: React.FC<any> = ({
   children = '',

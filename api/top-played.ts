@@ -42,7 +42,7 @@ export default async function (req: VercelRequest, res: VercelResponse) {
       };
     }));
   }));
-  
+
   // Hey! I'm returning an image!
   res.setHeader(
     'Content-Type',

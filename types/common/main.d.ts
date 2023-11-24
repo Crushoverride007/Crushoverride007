@@ -13,8 +13,8 @@ interface ICurrentDailyGame {
   start_time: number;
   time_control: string;
   time_class: string;
-  rules: string;    
-  tournament: string; 
+  rules: string;
+  tournament: string;
   match: string
 }
 
@@ -181,4 +181,3 @@ interface ISkillPath {
   styles: string;
   transform?: string;
 }
-

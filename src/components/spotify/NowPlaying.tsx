@@ -123,12 +123,12 @@ export const Player: React.FC<IPlayerProps> = ({
             justify-content: center;
             mix-blend-mode: difference;
           }
-          
+
           p {
             display: block;
             opacity: 0;
           }
-          
+
           img:not([src]) {
             background: #FFF;
             border: 1px solid #e1e4e8;
@@ -136,7 +136,7 @@ export const Player: React.FC<IPlayerProps> = ({
             content: url("data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==");
             mix-blend-mode: normal;
           }
-          
+
           .progress-bar,
           #track,
           #artist,
@@ -145,7 +145,7 @@ export const Player: React.FC<IPlayerProps> = ({
             animation: appear 300ms ease-out forwards;
             opacity: 0;
           }
-          
+
           #track,
           #artist {
             overflow: hidden;
@@ -153,47 +153,47 @@ export const Player: React.FC<IPlayerProps> = ({
             width: 170px;
             white-space: nowrap;
           }
-          
+
           #title {
             animation-delay: 0ms;
             margin: .5rem;
             text-align: center;
           }
-          
+
           #track {
             animation-delay: 400ms;
           }
-          
+
           #artist {
             animation-delay: 500ms;
           }
-          
+
           #cover {
             animation-delay: 300ms;
             animation-name: cover-appear;
             box-shadow: 0 1px 3px rgba(0,0,0,0.1), 0 3px 10px rgba(0,0,0,0.05);
             border-radius: 6px;
           }
-          
+
           #cover:not([src]) {
             box-shadow: none;
           }
-          
+
           .bar-container {
             display: flex;
             flex-direction: column;
             justify-content: center;
             width: 111px;
           }
-          
+
           .bar-container.right {
             align-items: flex-start;
           }
-          
+
           .bar-container.left {
             align-items: flex-end;
           }
-          
+
           .bar {
             --offset: 0;
             animation: bars ${ audioFeatures ? (audioFeatures.tempo / 60) * 1 : 1 }s ease calc(var(--offset) * -.5s) infinite;
@@ -202,7 +202,7 @@ export const Player: React.FC<IPlayerProps> = ({
             margin: 2px 0;
             width: 50px;
           }
-          
+
           .progress-bar {
             animation-delay: 550ms;
             border: 1px solid #c58545;
@@ -216,7 +216,7 @@ export const Player: React.FC<IPlayerProps> = ({
             width: 100%;
             z-index: 0;
           }
-          
+
           #progress {
             animation: progress ${duration}ms linear;
             animation-delay: -${progress}ms;
@@ -228,12 +228,12 @@ export const Player: React.FC<IPlayerProps> = ({
             transform-origin: left center;
             width: 100%;
           }
-          
-          .paused { 
+
+          .paused {
             animation-play-state: paused !important;
             background: #282828 !important;
           }
-          
+
           @keyframes cover-appear {
             from {
               opacity: 0;
@@ -244,7 +244,7 @@ export const Player: React.FC<IPlayerProps> = ({
               transform: scale(1);
             }
           }
-          
+
           @keyframes appear {
             from {
               opacity: 0;
@@ -255,7 +255,7 @@ export const Player: React.FC<IPlayerProps> = ({
               transform: translateX(0);
             }
           }
-          
+
           @keyframes progress {
             from {
               transform: scaleX(0)
@@ -264,7 +264,7 @@ export const Player: React.FC<IPlayerProps> = ({
               transform: scaleX(1)
             }
           }
-          
+
           @keyframes bars {
             0% {
               width: 25%;

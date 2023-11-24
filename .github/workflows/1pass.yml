@@ -1,0 +1,34 @@
+name: 1 Password
+on:
+  push:
+    branches:
+      - 'main'
+  pull_request:
+    branches:
+      - 'main'
+
+jobs:
+  Build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v2
+
+    - name: Fetching secrets from 1Password
+      uses: 1password/load-secrets-action/configure@v1
+      with:
+        service-account-token: ${{ secrets.OP_SERVICE_ACCOUNT_TOKEN }}
+
+      env:
+        SECRET: op://app-cicd/hello-world/secret
+
+    - name: Print masked secret
+      run: echo $SECRET
+
+    - name: Running tests
+      run: |
+        ls -lah
+        pwd
+        whoami

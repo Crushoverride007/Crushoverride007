@@ -8,19 +8,19 @@
             display: flex;
             justify-content: center;
           }
-          
+
           p {
             display: block;
             opacity: 0;
           }
-          
+
           img:not([src]) {
             content: url(&quot;data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==&quot;);
             border-radius: 6px;
             background: #FFF;
             border: 1px solid #e1e4e8;
           }
-          
+
           .progress-bar,
           #track,
           #artist,
@@ -29,7 +29,7 @@
             opacity: 0;
             animation: appear 300ms ease-out forwards;
           }
-          
+
           #track,
           #artist {
             width: 170px;
@@ -37,46 +37,46 @@
             overflow: hidden;
             text-overflow: ellipsis;
           }
-          
+
           #title {
             animation-delay: 0ms;
             text-align: center;
             margin: .5rem;
           }
-          
+
           #track {
             animation-delay: 400ms;
           }
-          
+
           #artist {
             animation-delay: 500ms;
           }
-          
+
           #cover {
             animation-name: cover-appear;
             animation-delay: 300ms;
             box-shadow: 0 1px 3px rgba(0,0,0,0.1), 0 3px 10px rgba(0,0,0,0.05);
           }
-          
+
           #cover:not([src]) {
             box-shadow: none;
           }
-          
+
           .bar-container {
             width: 111px;
             display: flex;
             flex-direction: column;
             justify-content: center;
           }
-          
+
           .bar-container.right {
             align-items: flex-start;
           }
-          
+
           .bar-container.left {
             align-items: flex-end;
           }
-          
+
           .bar {
             --offset: 0;
             height: 10px;
@@ -85,7 +85,7 @@
             background: rgba(132.6, 172.89000000000001, 137.19, .7);
             animation: bars 1.7671833333333333s ease calc(var(--offset) * -.5s) infinite;
           }
-          
+
           .progress-bar {
             position: relative;
             width: 100%;
@@ -99,7 +99,7 @@
             animation-delay: 550ms;
             margin-top: 4px;
           }
-          
+
           #progress {
             position: absolute;
             top: -1px;
@@ -111,12 +111,12 @@
             animation: progress 183440ms linear;
             animation-delay: -4677ms;
           }
-          
-          .paused { 
+
+          .paused {
             animation-play-state: paused !important;
             background: #e1e4e8 !important;
           }
-          
+
           @keyframes cover-appear {
             from {
               opacity: 0;
@@ -127,7 +127,7 @@
               transform: scale(1);
             }
           }
-          
+
           @keyframes appear {
             from {
               opacity: 0;
@@ -138,7 +138,7 @@
               transform: translateX(0);
             }
           }
-          
+
           @keyframes progress {
             from {
               transform: scaleX(0)
@@ -147,7 +147,7 @@
               transform: scaleX(1)
             }
           }
-          
+
           @keyframes bars {
             0% {
               width: 25%;

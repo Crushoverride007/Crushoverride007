@@ -10,7 +10,7 @@ export interface ITopPlayedProps {
 /**
  * Top Played
  * Displays three lists of tracks.
- * @param trackLists 
+ * @param trackLists
  */
 export const TopPlayed: React.FC<ITopPlayedProps> = ({
   trackLists,
@@ -43,7 +43,7 @@ export const TopPlayed: React.FC<ITopPlayedProps> = ({
                   width="48"
                   height="48" />
                 <div className="details">
-                  <Text 
+                  <Text
                     className="name"
                     weight="bold">
                     {`${track.track ?? ""} `.trim()}
@@ -53,39 +53,39 @@ export const TopPlayed: React.FC<ITopPlayedProps> = ({
                     className="artist"
                     color="grey">
                     {track.artist}
-                  </Text>  
+                  </Text>
                 </div>
               </a>
             ))}
           </div>
         ))}
       </div>
-      
+
       <style>
         {`
           .top-played-wrapper {
             display: flex;
             justify-content: space-around;
           }
-          
+
           a {
             color: inherit;
             cursor: pointer;
             text-decoration: none;
           }
-          
+
           p {
             display: block;
             opacity: 0;
           }
-          
+
           img:not([src]) {
             content: url("data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==");
             border-radius: 6px;
             background: #FFF;
             border: 1px solid #e1e4e8;
           }
-          
+
           .track {
             display: flex;
             align-items: center;
@@ -96,7 +96,7 @@ export const TopPlayed: React.FC<ITopPlayedProps> = ({
             padding: .7rem;
             border: 1px solid rgb(0,0,0,.1);
           }
-          
+
           .track .details {
             display: flex;
             flex: 1;
@@ -104,7 +104,7 @@ export const TopPlayed: React.FC<ITopPlayedProps> = ({
             margin-top: -4px;
             margin-left: 8px;
           }
-          
+
           .name,
           .artist,
           .cover,
@@ -112,13 +112,13 @@ export const TopPlayed: React.FC<ITopPlayedProps> = ({
             opacity: 0;
             animation: appear 300ms ease-out forwards;
           }
-          
+
           .title {
             animation-delay: 0ms;
             text-align: center;
             margin: .5rem .5rem 1rem;
           }
-          
+
           .name,
           .artist {
             width: 180px;
@@ -126,25 +126,25 @@ export const TopPlayed: React.FC<ITopPlayedProps> = ({
             overflow: hidden;
             text-overflow: ellipsis;
           }
-          
+
           .name {
             animation-delay: 400ms;
           }
-          
+
           .artist {
             animation-delay: 500ms;
           }
-          
+
           .cover {
             animation-name: cover-appear;
             animation-delay: 300ms;
             box-shadow: 0 1px 3px rgba(0,0,0,0.1), 0 3px 10px rgba(0,0,0,0.05);
           }
-          
+
           .cover:not([src]) {
             box-shadow: none;
           }
-          
+
           @keyframes appear {
             from {
               opacity: 0;
@@ -155,7 +155,7 @@ export const TopPlayed: React.FC<ITopPlayedProps> = ({
               transform: translateX(0);
             }
           }
-          
+
           @keyframes cover-appear {
             from {
               opacity: 0;
