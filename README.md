@@ -6,6 +6,7 @@
 
 <!-- very old one, typing intro -->
 
+
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Avenir&size=18&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=My+name's+Mouhcine%2C+;a+recent+bachelor+graduate+in+the+Cyber+Security+domain;And+I'm+currently+working+on+other+projects." alt="Typing SVG" /> -->
 
 <!-- before typing intro -->
