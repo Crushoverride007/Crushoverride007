@@ -103,7 +103,7 @@
 <p align="center">
   <a href="https://app.daily.dev/crushoverride007">
     <!-- <img src="https://api.daily.dev/devcards/79009def043145a8bb4330ae537abb1f.png?r=61v" width="400" alt="Mouhcine MESMOUKI's Dev Card"/> -->
-    <img src="https://api.daily.dev/devcards/v2/OEIO2LwIpZp0ysQtALHRv.png?type=default&r=r6o" width="356" alt="Mouhcine MESMOUKI's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/OEIO2LwIpZp0ysQtALHRv.png?type=default&r=pjt" width="356" alt="crushoverride007's Dev Card"/>
   </a>
 </p>
 
