@@ -58,7 +58,7 @@
                     <rect id="fade" stroke="none" fill="url(#radialGradient-10)" fill-rule="evenodd" x="0" y="0" width="796" height="930"></rect>
                 </g>
             </g>
-            
+
             <g id="stats" mask="url(#mask-6)">
                 <g transform="translate(59.000000, 516.000000)">
                     <g id="publications" transform="translate(0.000000, 432.000000)">
@@ -139,7 +139,7 @@
                     </g>
                 </g>
             </g>
-            
+
             <g id="header" mask="url(#mask-6)">
                 <g transform="translate(35.000000, 48.000000)">
                     <g id="username" transform="translate(192.000000, 37.000000)" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="48" font-weight="bold" line-spacing="86">
