@@ -48,9 +48,11 @@
   -->
 
   <p align="center">
+    <kbd>
   <img src="assets/thm.png" alt="Mouhcine MESMOUKI Badge"         
         width="300"
         border-radius= "12px"/>
+    </kbd>
   </p>
 
   <p align="center">
