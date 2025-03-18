@@ -48,7 +48,7 @@
   -->
 
   <p align="center">
-    <img src="https://imgur.com/a/thmd-rhUeq2t" alt="Mouhcine MESMOUKI Badge" width="300" style="border-radius: 15px;">
+    <img src="assets/thm.png" alt="Mouhcine MESMOUKI Badge" width="300" style="border-radius: 15px;">
   </p>
 
   <p align="center">
