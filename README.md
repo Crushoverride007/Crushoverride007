@@ -168,11 +168,9 @@
 
 ## :recycle: Skills - Automation & Security
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=terraform,githubactions,cloudflare,appwrite,elasticsearch,jenkins,postman,prometheus,supabase,sentry" />
-  </a>
-</p>
+[![Automation](https://skillicons.dev/icons?i=terraform,githubactions,appwrite,jenkins,supabase)](https://skillicons.dev)
+
+[![Security](https://skillicons.dev/icons?i=cloudflare,prometheus,postman,elasticsearch,sentry)](https://skillicons.dev)
 
 ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![NextCloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white)
@@ -181,7 +179,7 @@
 
 ## :computer: Skills - OS
 
-[![My Skills](https://skillicons.dev/icons?i=windows,apple,linux,redhat,raspberrypi)](https://skillicons.dev)
+[![Operating Systems](https://skillicons.dev/icons?i=windows,apple,linux,redhat,raspberrypi)](https://skillicons.dev)
 
 
 <!-- 
@@ -191,12 +189,7 @@
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 -->
 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,arch,debian" />
-  </a>
-</p>
+[![Distros](https://skillicons.dev/icons?i=kali,arch,debian)](https://skillicons.dev)
 
 <!--
 
@@ -209,11 +202,7 @@
 
 ## :globe_with_meridians: Skills - WebDev
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
-  </a>
-</p>
+[![Dev Languages](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap)](https://skillicons.dev)
 
 <!--
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -222,11 +211,7 @@
 ![TailWindCss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 -->
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,mysql,mongodb,postgres" />
-  </a>
-</p>
+[![Databases](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
 
 
 <!--
@@ -237,11 +222,7 @@
 
 ## <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="26" height="20"/> Version Control System
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" />
-  </a>
-</p>
+[![Vsc](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket)](https://skillicons.dev)
 
 <!--
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
@@ -251,11 +232,7 @@
 
 ## :dart: :rocket: Project Management
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=notion,obsidian" />
-  </a>
-</p>
+[![Project Management](https://skillicons.dev/icons?i=notion,obsidian)](https://skillicons.dev)
 
 <!-- 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
