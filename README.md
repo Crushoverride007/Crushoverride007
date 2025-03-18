@@ -50,8 +50,8 @@
   <p align="center">
     <kbd>
   <img src="assets/thm.png" alt="Mouhcine MESMOUKI Badge"         
-        width="300";
-        border-radius= 50% />
+        width="300"
+        style="border: 3px" />
     </kbd>
   </p>
 
