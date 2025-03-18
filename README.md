@@ -113,7 +113,8 @@
   <a href="https://www.linkedin.com/in/mouhcinemesmouki/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:mouhcine.mesmouki7@gmail.com">
+  <a href="mailto:mouhcinemesmouki@gmail.com?subject=Crushoverride007 GitHub Profile&body=Hi Mouhcine,%0A%0AI recently came across your GitHub profile and was really impressed with your work, especially your contributions to open-source projects. It's clear you have a strong passion for coding and security. I would love to connect and discuss your projects in more detail.%0A%0ALooking forward to hearing from you.%0A%0ABest regards, [Your Name]">
+
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
@@ -125,7 +126,6 @@
 -->
 
 <!-- ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Click Here](https://www.linkedin.com/in/mouhcinemesmouki/) -->
-
 
 <!--
 <a href="https://twitter.com/crushoveride007">
