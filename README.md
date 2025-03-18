@@ -170,7 +170,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=terraform,githubactions,cloudflare,appwrite,elasticsearch,jenkins,postman,prometheus" />
+    <img src="https://skillicons.dev/icons?i=terraform,githubactions,cloudflare,appwrite,elasticsearch,jenkins,postman,prometheus,supabase,sentry" />
   </a>
 </p>
 
@@ -181,7 +181,7 @@
 
 ## :computer: Skills - OS
 
-<p align="center">
+<p >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,apple,linux,redhat,raspberrypi" />
   </a>
