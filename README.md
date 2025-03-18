@@ -48,7 +48,7 @@
   -->
 
   <p align="center">
-  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1661945" alt="Mouhcine MESMOUKI Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Crushoverride007.png" alt="Mouhcine MESMOUKI Badge" />
   </p>
 
   <p align="center">
