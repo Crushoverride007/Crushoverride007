@@ -51,7 +51,7 @@
     <kbd>
   <img src="assets/thm.png" alt="Mouhcine MESMOUKI Badge"         
         width="300"
-        style="border: 3px" />
+        style="border: 50px" />
     </kbd>
   </p>
 
