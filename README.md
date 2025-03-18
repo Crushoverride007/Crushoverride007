@@ -181,11 +181,8 @@
 
 ## :computer: Skills - OS
 
-<p >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,apple,linux,redhat,raspberrypi" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=windows,apple,linux,redhat,raspberrypi)](https://skillicons.dev)
+
 
 <!-- 
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
