@@ -48,7 +48,7 @@
   -->
 
   <p align="center">
-    <img src="assets/thm.png" alt="Mouhcine MESMOUKI Badge" width="300" style="border-radius: 15px;">
+    <img src="assets/tryhackme-badge.png" alt="Mouhcine MESMOUKI Badge" width="300">
   </p>
 
   <p align="center">
