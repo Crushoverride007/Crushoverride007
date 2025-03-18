@@ -47,8 +47,8 @@
       the github action from p4p1 doesn't work as of 12 april 2023 because tryhackme website removed the way they implemented the badge generation
   -->
 
-  <p>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Crushoverride007.png" alt="Your Image Badge" />
+  <p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Crushoverride007.png" alt="Mouhcine MESMOUKI Badge" />
   </p>
 
   <p align="center">
