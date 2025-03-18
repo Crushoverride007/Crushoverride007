@@ -13,11 +13,6 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Configure Git Identity
-      run: |
-        git config --global user.name "Crushoverride007"
-        git config --global user.email "mouhcine.mesmouki7@gmail.com"
-
     - name: Fetch TryHackMe Badge
       uses: DhanushNehru/tryhackme-badge-action-workflow@v1.0
       with:
