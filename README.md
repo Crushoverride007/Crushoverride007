@@ -48,7 +48,9 @@
   -->
 
   <p align="center">
+    <a href="https://tryhackme.com/p/Crushoverride007">
     <img src="assets/tryhackme-badge.png" alt="Mouhcine MESMOUKI Badge" width="300">
+    </a>
   </p>
 
   <p align="center">
