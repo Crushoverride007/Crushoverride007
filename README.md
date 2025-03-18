@@ -38,8 +38,10 @@
   <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Crushoverride007}1212%2Fhit-counter">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Crushoverride007}1212%2Fhit-counter"/>
   </a>
+  <!--
   <img src="https://api.meercode.io/badge/Crushoverride007/Crushoverride007?type=ci-score&branch=main&lastDay=14"/>
   </p>
+  -->
 
   <!-- Putting new badge into place
       the github action from p4p1 doesn't work as of 12 april 2023 because tryhackme website removed the way they implemented the badge generation
