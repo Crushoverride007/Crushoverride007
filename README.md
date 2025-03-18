@@ -136,12 +136,8 @@
 </p>
 
 ## ☁️ Skills - Cloud
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,gcp,aws" />
-  </a>
-</p>
 
+[![Paas](https://skillicons.dev/icons?i=azure,gcp,aws)](https://skillicons.dev)
 
 <!--
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
@@ -151,11 +147,8 @@
 ![Linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white)
 -->
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,heroku,vercel,netlify" />
-  </a>
-</p>
+[![Containernisation](https://skillicons.dev/icons?i=kubernetes,docker,heroku,vercel,netlify)](https://skillicons.dev)
+
 
 <!--
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -168,14 +161,12 @@
 
 ## :recycle: Skills - Automation & Security
 
-[![Automation](https://skillicons.dev/icons?i=terraform,githubactions,appwrite,jenkins,supabase)](https://skillicons.dev)
+[![Automation](https://skillicons.dev/icons?i=bash,terraform,githubactions,appwrite,jenkins,supabase)](https://skillicons.dev)
 
 [![Security](https://skillicons.dev/icons?i=cloudflare,prometheus,postman,elasticsearch,sentry)](https://skillicons.dev)
 
-![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![NextCloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white)
 ![SonarCloud](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 
 ## :computer: Skills - OS
 
