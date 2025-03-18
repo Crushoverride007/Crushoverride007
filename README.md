@@ -113,6 +113,9 @@
   <a href="https://www.linkedin.com/in/mouhcinemesmouki/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="mailto:mouhcine.mesmouki7@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 <!--
@@ -123,11 +126,6 @@
 
 <!-- ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Click Here](https://www.linkedin.com/in/mouhcinemesmouki/) -->
 
-<p align="center">
-  <a href="mailto:mouhcine.mesmouki7@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
 
 <!--
 <a href="https://twitter.com/crushoveride007">
