@@ -50,7 +50,7 @@
   <p align="center">
   <img src="assets/thm.png" alt="Mouhcine MESMOUKI Badge"         
         width="300"
-        border= "12px"/>
+        border-radius= "12px"/>
   </p>
 
   <p align="center">
