@@ -48,7 +48,7 @@
   -->
 
   <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Crushoverride007.png" "alt="TryHackMe Mouhcine's">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Crushoverride007.png" alt="Mouhcine MESMOUKI BADGE" />
   </p>
 
   <p align="center">
