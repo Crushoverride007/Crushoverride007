@@ -79,10 +79,11 @@
 </p>
 -->
 
+<!-- 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=mouhcine.mesmouki&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=mouhcine.mesmouki&cover_image=true&theme=default&bar_color=5e30eb&bar_color_cover=true"/>
 </p>
-
+-->
 
 <!-- <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=mouhcine.mesmouki&width=600"/>
@@ -108,17 +109,31 @@
 </p>
 
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/mouhcinemesmouki/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
+<!--
 <a href="https://www.linkedin.com/in/mouhcinemesmouki/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+-->
 
 <!-- ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Click Here](https://www.linkedin.com/in/mouhcinemesmouki/) -->
 
+<p align="center">
+  <a href="mailto:mouhcine.mesmouki7@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
+<!--
 <a href="https://twitter.com/crushoveride007">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
+-->
 
 <!-- ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) [Click Here](https://twitter.com/crushoveride007) -->
 
