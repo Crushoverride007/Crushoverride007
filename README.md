@@ -53,7 +53,7 @@
 
   <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=crushoverride007&theme=tokyonight&show_icons=true" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Crushoverride007&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
+  <!--<img src="http://github-readme-streak-stats.herokuapp.com?user=Crushoverride007&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>-->
   </p>
 
 <!--
