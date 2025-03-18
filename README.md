@@ -170,7 +170,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=terraform,githubactions" />
+    <img src="https://skillicons.dev/icons?i=terraform,githubactions,cloudflare,appwrite,elasticsearch,jenkins,postman,prometheus" />
   </a>
 </p>
 
@@ -183,7 +183,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,apple,linux,redhat" />
+    <img src="https://skillicons.dev/icons?i=windows,apple,linux,redhat,raspberrypi" />
   </a>
 </p>
 
@@ -194,10 +194,21 @@
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 -->
 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,arch,debian" />
+  </a>
+</p>
+
+<!--
+
 ![Kali_Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
 ![Arch_Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+
+-->
 
 ## :globe_with_meridians: Skills - WebDev
 
@@ -231,7 +242,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" />
   </a>
 </p>
 
