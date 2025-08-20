@@ -20,7 +20,7 @@
   "dependencies": {
     "@vercel/node": "^1.9.1",
     "axios": "^0.21.2",
-    "chess-web-api": "^1.0.10",
+    "chess-web-api": "^1.1.2",
     "isomorphic-unfetch": "^3.0.0",
     "node-fetch": "^2.6.7",
     "querystring": "^0.2.0",
