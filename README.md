@@ -34,7 +34,7 @@
   <!-- <a href="https://visitor-badge.glitch.me/badge?page_id=Crushoverride007.Crushoverride007&left_text=All%20Visitors">
     <img src="https://visitor-badge.glitch.me/badge?page_id=Crushoverride007.Crushoverride007&left_text=All%20Visitors"/>
   from fleet
-  </a>   
+  </a>
     <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Crushoverride007}1212%2Fhit-counter">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Crushoverride007}1212%2Fhit-counter"/>
     </a>
@@ -88,7 +88,7 @@
 </p>
 -->
 
-<!-- 
+<!--
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=mouhcine.mesmouki&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=mouhcine.mesmouki&cover_image=true&theme=default&bar_color=5e30eb&bar_color_cover=true"/>
 </p>
@@ -194,7 +194,7 @@
 [![Operating Systems](https://skillicons.dev/icons?i=windows,apple,linux,redhat,raspberrypi)](https://skillicons.dev)
 
 
-<!-- 
+<!--
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -246,7 +246,7 @@
 
 [![Project Management](https://skillicons.dev/icons?i=notion,obsidian)](https://skillicons.dev)
 
-<!-- 
+<!--
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
