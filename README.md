@@ -20,6 +20,8 @@
   <img src="https://github-stats-extended.vercel.app/api?username=Crushoverride007&rank_icon=github&hide_title=true&custom_title=Crushoverride007%27s%20Stats&show_icons=true&include_all_commits=true&theme=shadow_blue&hide=contribs&show=issues_authored" alt="Crushoverride007's Stats" />
 </div>
 
+<br />
+
 <div align="center">
   <a href="https://tryhackme.com/p/Crushoverride007">
     <img src="assets/tryhackme-badge.png" alt="Mouhcine MESMOUKI TryHackMe Badge" width="300" />
