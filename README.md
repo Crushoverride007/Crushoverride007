@@ -102,8 +102,9 @@
   <img src="https://crushoverride007.vercel.app/api/top-played">
 </p> -->
 
+<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=Crushoverride007&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
+</p>
 
 <!-- Bio -->
 
