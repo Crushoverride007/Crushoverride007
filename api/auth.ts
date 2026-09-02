@@ -1,11 +1,9 @@
-import axios, { AxiosResponse } from 'axios';
-import querystring, { ParsedUrlQueryInput } from 'querystring';
 import {
   VercelRequest,
   VercelResponse,
 } from '@vercel/node';
 
-const redirectURL: string = 'http://localhost:3000/api/auth';
+import { redirectURL } from '../src/services/redirect';
 
 const {
   SPOTIFY_CLIENT_ID: client_id,
@@ -32,29 +30,32 @@ export default async function (req: VercelRequest, res: VercelResponse) {
   } = req.query;
 
   if (code && state && state === STATE) {
-    const url: string = 'https://accounts.spotify.com/api/token';
-    const data: ParsedUrlQueryInput = {
-      code,
-      redirect_uri: redirectURL,
+    const body = new URLSearchParams({
+      code: String(code),
+      redirect_uri: redirectURL(req),
       grant_type: 'authorization_code',
-    };
+    });
 
-    const options: object = {
+    const response = await fetch('https://accounts.spotify.com/api/token', {
+      method: 'POST',
       headers: {
         'Content-Type': 'application/x-www-form-urlencoded',
         Authorization: `Basic ${Buffer.from(`${client_id}:${client_secret}`).toString('base64')}`,
       },
-    };
+      body,
+    });
 
-    const response: AxiosResponse<any> = await axios.post(
-      url,
-      querystring.stringify(data),
-      options,
-    );
+    const data: any = await response.json();
+
+    // Spotify answers 400 with a JSON body rather than throwing, so an
+    // unchecked read here would return `{}` and look like a silent success.
+    if (!response.ok) {
+      return res.status(response.status).send(data);
+    }
 
     const result: IAuthResponse = {
-      refresh_token: response.data.refresh_token,
-      access_token: response.data.access_token,
+      refresh_token: data.refresh_token,
+      access_token: data.access_token,
     };
 
     return res.send(result);
