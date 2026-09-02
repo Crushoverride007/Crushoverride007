@@ -2,6 +2,7 @@ import {
   VercelRequest,
   VercelResponse,
 } from '@vercel/node';
+import React from 'react';
 import { renderToString } from 'react-dom/server';
 
 import { TopPlayed } from '../src/components/spotify/TopPlayed';
@@ -55,7 +56,7 @@ export default async function (req: VercelRequest, res: VercelResponse) {
 
   // Generating the component and rendering it
   const text: string = renderToString(
-    TopPlayed({ trackLists: convertedTracks })
+    TopPlayed({ trackLists: convertedTracks }) as React.ReactElement
   );
 
   return res.send(text);

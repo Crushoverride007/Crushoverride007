@@ -13,10 +13,7 @@ interface IConvertSVGParameters {
  * @param {string} width
  * @param {string} height
  */
-const ConvertSVG: React.StatelessComponent<{
-  height: string,
-  width: string,
-}> = ({
+const ConvertSVG: React.FC<IConvertSVGParameters> = ({
   children,
   height,
   width,

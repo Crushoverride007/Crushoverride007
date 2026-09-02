@@ -1,5 +1,3 @@
-import fetch from 'isomorphic-unfetch';
-import { stringify } from 'querystring';
 
 const {
   SPOTIFY_CLIENT_ID: client_id,
@@ -17,7 +15,7 @@ const Authorization: string = `Basic ${basic}`;
  */
 async function getAuthorizationToken(): Promise<string> {
   const url: URL = new URL('https://accounts.spotify.com/api/token');
-  const body: string = stringify({
+  const body = new URLSearchParams({
     grant_type: 'refresh_token',
     refresh_token,
   });
@@ -29,7 +27,7 @@ async function getAuthorizationToken(): Promise<string> {
       'Content-Type': 'application/x-www-form-urlencoded',
     },
     body,
-  }).then((r) => r.json());
+  }).then((r) => r.json() as Promise<IAuthorizationTokenResponse>);
 
   return `Bearer ${response.access_token}`;
 }
@@ -50,7 +48,7 @@ export async function nowPlaying(): Promise<ICurrentlyPlayingResponse> {
   const { status } = response;
 
   if (status === 200) {
-    const data: ICurrentlyPlayingResponse = await response.json();
+    const data = await response.json() as ICurrentlyPlayingResponse;
     data.Authorization = Authorization;
 
     return data;
@@ -85,7 +83,7 @@ export async function lastPlayed(Authorization: string): Promise<ICurrentlyPlayi
   const { status } = response;
 
   if (status === 200) {
-    const data: ICursorBasedPagingObject<IPlayHistoryObject> = await response.json();
+    const data = await response.json() as ICursorBasedPagingObject<IPlayHistoryObject>;
 
     const trackResponse: Response = await fetch(`https://api.spotify.com/v1/tracks/${ data.items[0].track.id }`, {
       headers: {
@@ -93,7 +91,7 @@ export async function lastPlayed(Authorization: string): Promise<ICurrentlyPlayi
       },
     });
 
-    const track: ITrackObject = await trackResponse.json();
+    const track = await trackResponse.json() as ITrackObject;
 
     return {
       context: null,
@@ -127,7 +125,7 @@ export async function lastPlayed(Authorization: string): Promise<ICurrentlyPlayi
  *
  * @returns {Promise<IAudioFeaturesResponse | object>} Audio features object
  */
-export async function trackAudioFeatures(id: string, Authorization: string): Promise<IAudioFeaturesResponse | object> {
+export async function trackAudioFeatures(id: string, Authorization: string): Promise<IAudioFeaturesResponse | null> {
   const response: Response = await fetch(`https://api.spotify.com/v1/audio-features/${id}`, {
     headers: {
       Authorization,
@@ -137,9 +135,12 @@ export async function trackAudioFeatures(id: string, Authorization: string): Pro
   const { status } = response;
 
   if (status === 200) {
-    return await response.json();
+    return await response.json() as IAudioFeaturesResponse;
   } else {
-    return {};
+    // Null, not `{}`: the player does `audioFeatures ? tempo / 60 : 1`, and an
+    // empty object is truthy, so the fallback never fired and the animation
+    // duration came out NaN.
+    return null;
   }
 };
 
@@ -160,7 +161,7 @@ export async function topPlayed(timeRange: string): Promise<Array<ITrackObject>>
   const { status } = response;
 
   if (status === 200) {
-    const data: IPagingObject<ITrackObject> = await response.json();
+    const data = await response.json() as IPagingObject<ITrackObject>;
     return data.items;
   } else {
     return [];

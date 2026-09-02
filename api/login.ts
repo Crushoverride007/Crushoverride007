@@ -2,9 +2,8 @@ import {
   VercelRequest,
   VercelResponse,
 } from '@vercel/node';
-import querystring from 'querystring';
 
-const redirectURL: string = 'http://localhost:3000/api/auth';
+import { redirectURL } from '../src/services/redirect';
 
 const {
   SPOTIFY_CLIENT_ID: client_id,
@@ -26,14 +25,19 @@ export default async function (req: VercelRequest, res: VercelResponse) {
     'user-top-read',
   ];
 
-  const url: string = `https://accounts.spotify.com/authorize?${querystring.stringify({
+  // Space-separated per the OAuth spec. URLSearchParams encodes it once;
+  // joining on '%20' here would double-encode into '%2520' and Spotify would
+  // read the whole thing as a single unknown scope.
+  const params = new URLSearchParams({
     client_id,
-    redirect_uri: redirectURL,
+    redirect_uri: redirectURL(req),
     response_type: 'code',
-    scope: scopes.join('%20'),
+    scope: scopes.join(' '),
     show_dialog: 'false',
     state,
-  })}`;
+  });
+
+  const url: string = `https://accounts.spotify.com/authorize?${params}`;
 
   return res.send(url);
 };
