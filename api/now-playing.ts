@@ -6,6 +6,7 @@ import {
   VercelRequest,
   VercelResponse,
 } from '@vercel/node';
+import React from 'react';
 import { renderToString } from 'react-dom/server';
 
 import {
@@ -50,7 +51,7 @@ export default async function (req: VercelRequest, res: VercelResponse) {
 
     // The music bars are colored based on the songs danceability, energy and happiness
     // And they move to the beat of the song :)
-    let audioFeatures: IAudioFeaturesResponse | object = null;
+    let audioFeatures: IAudioFeaturesResponse | null = null;
     if (Object.keys(item).length) {
       audioFeatures = await trackAudioFeatures(item.id, Authorization);
     }
@@ -91,7 +92,7 @@ export default async function (req: VercelRequest, res: VercelResponse) {
       isPlaying,
       progress,
       track,
-    }));
+    }) as React.ReactElement);
 
     return res.send(text);
   } catch (error) {

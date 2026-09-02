@@ -47,7 +47,7 @@ export const Player: React.FC<IPlayerProps> = ({
                 key={ `left-bar-${bar}` }
                 style={{
                   '--offset': bar,
-                }}/>
+                } as React.CSSProperties}/>
             ))}
           </div>
         }
@@ -110,7 +110,7 @@ export const Player: React.FC<IPlayerProps> = ({
                 key={ `right-bar-${bar}` }
                 style={{
                   '--offset': bar,
-                }}/>
+                } as React.CSSProperties}/>
             ))}
           </div>
         }
