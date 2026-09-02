@@ -17,9 +17,12 @@ export function redirectURL(req: { headers: VercelRequest['headers'] }): string 
     return process.env.REDIRECT_URI;
   }
 
-  // Set by Vercel on every deployment, without the scheme.
-  if (process.env.VERCEL_URL) {
-    return `https://${process.env.VERCEL_URL}/api/auth`;
+  // The production alias, e.g. crushoverride007.vercel.app. This is the one
+  // registered with Spotify. VERCEL_URL is deliberately not used: it is the
+  // per-deployment hostname (crushoverride007-a1b2c3.vercel.app), which
+  // changes on every push and would never match the registered URI.
+  if (process.env.VERCEL_PROJECT_PRODUCTION_URL) {
+    return `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}/api/auth`;
   }
 
   const host = req.headers.host ?? '127.0.0.1:3000';
