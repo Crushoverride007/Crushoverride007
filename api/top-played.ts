@@ -5,7 +5,7 @@ import {
 import React from 'react';
 import { renderToString } from 'react-dom/server';
 
-import { TopPlayed } from '../src/components/spotify/TopPlayed';
+import { TopPlayed, TopPlayedTheme } from '../src/components/spotify/TopPlayed';
 import { topPlayed } from '../src/services/spotify';
 
 /**
@@ -54,9 +54,12 @@ export default async function (req: VercelRequest, res: VercelResponse) {
     's-maxage=1, stale-while-revalidate',
   );
 
+  // ?theme=dark for GitHub dark mode; anything else falls back to light.
+  const theme: TopPlayedTheme = req.query.theme === 'dark' ? 'dark' : 'light';
+
   // Generating the component and rendering it
   const text: string = renderToString(
-    TopPlayed({ trackLists: convertedTracks }) as React.ReactElement
+    TopPlayed({ trackLists: convertedTracks, theme }) as React.ReactElement
   );
 
   return res.send(text);
