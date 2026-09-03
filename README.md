@@ -101,40 +101,50 @@
   </a>
 </div>
 
-## ☁️ Skills - Cloud
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>☁️ Skills - Cloud</h3>
 
-<a href="https://skillicons.dev"><img align="left" vspace="4" src="https://skillicons.dev/icons?i=azure,gcp,aws" alt="Paas" /></a>
-<a href="https://skillicons.dev"><img align="right" vspace="4" src="https://skillicons.dev/icons?i=kubernetes,docker,heroku,vercel,netlify" alt="Containernisation" /></a>
-<br clear="all" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure,gcp,aws" alt="Paas" /></a><br />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kubernetes,docker,heroku,vercel,netlify" alt="Containernisation" /></a>
+</td>
+<td width="50%" valign="top">
+<h3>♻️ Skills - Automation &amp; Security</h3>
 
-## :recycle: Skills - Automation & Security
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash,terraform,githubactions,appwrite,jenkins,supabase" alt="Automation" /></a><br />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cloudflare,prometheus,postman,elasticsearch,sentry" alt="Security" /></a><br />
+<img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white" alt="NextCloud" />
+<img src="https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" alt="SonarCloud" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>💻 Skills - OS</h3>
 
-<a href="https://skillicons.dev"><img align="left" vspace="4" src="https://skillicons.dev/icons?i=bash,terraform,githubactions,appwrite,jenkins,supabase" alt="Automation" /></a>
-<a href="https://skillicons.dev"><img align="right" vspace="4" src="https://skillicons.dev/icons?i=cloudflare,prometheus,postman,elasticsearch,sentry" alt="Security" /></a>
-<br clear="all" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows,apple,linux,redhat,raspberrypi" alt="Operating Systems" /></a><br />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kali,arch,debian" alt="Distros" /></a>
+</td>
+<td width="50%" valign="top">
+<h3>🌐 Skills - WebDev</h3>
 
-![NextCloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white)
-![SonarCloud](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" alt="Dev Languages" /></a><br />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="26" height="20" /> Version Control System</h3>
 
-## :computer: Skills - OS
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" alt="Vsc" /></a>
+</td>
+<td width="50%" valign="top">
+<h3>🎯 🚀 Project Management</h3>
 
-<a href="https://skillicons.dev"><img align="left" vspace="4" src="https://skillicons.dev/icons?i=windows,apple,linux,redhat,raspberrypi" alt="Operating Systems" /></a>
-<a href="https://skillicons.dev"><img align="right" vspace="4" src="https://skillicons.dev/icons?i=kali,arch,debian" alt="Distros" /></a>
-<br clear="all" />
-
-## :globe_with_meridians: Skills - WebDev
-
-<a href="https://skillicons.dev"><img align="left" vspace="4" src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" alt="Dev Languages" /></a>
-<a href="https://skillicons.dev"><img align="right" vspace="4" src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases" /></a>
-<br clear="all" />
-
-## <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="26" height="20" /> Version Control System
-
-[![Vsc](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket)](https://skillicons.dev)
-
-## :dart: :rocket: Project Management
-
-[![Project Management](https://skillicons.dev/icons?i=notion,obsidian)](https://skillicons.dev)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=notion,obsidian" alt="Project Management" /></a>
+</td>
+</tr>
+</table>
 
 <br />
 
