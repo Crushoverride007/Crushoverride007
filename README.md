@@ -74,7 +74,7 @@
 * daily.dev profile
 
 <div align="center">
-  <a href="https://daily.dev/crushoverride007"><img src="https://api.daily.dev/devcards/v2/OEIO2LwIpZp0ysQtALHRv.png?type=wide&r=c5e" width="652" alt="crushoverride007's Dev Card"/></a>
+  <a href="https://daily.dev/crushoverride007"><img src="https://api.daily.dev/devcards/v2/OEIO2LwIpZp0ysQtALHRv.png?type=wide&r=f23" width="652" alt="Mouhcine's Dev Card"/></a>
 </div>
 
 <div align="center">
