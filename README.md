@@ -103,14 +103,14 @@
 
 ## ☁️ Skills - Cloud
 
-<a href="https://skillicons.dev"><img align="left" src="https://skillicons.dev/icons?i=azure,gcp,aws" alt="Paas" /></a>
-<a href="https://skillicons.dev"><img align="right" src="https://skillicons.dev/icons?i=kubernetes,docker,heroku,vercel,netlify" alt="Containernisation" /></a>
+<a href="https://skillicons.dev"><img align="left" vspace="4" src="https://skillicons.dev/icons?i=azure,gcp,aws" alt="Paas" /></a>
+<a href="https://skillicons.dev"><img align="right" vspace="4" src="https://skillicons.dev/icons?i=kubernetes,docker,heroku,vercel,netlify" alt="Containernisation" /></a>
 <br clear="all" />
 
 ## :recycle: Skills - Automation & Security
 
-<a href="https://skillicons.dev"><img align="left" src="https://skillicons.dev/icons?i=bash,terraform,githubactions,appwrite,jenkins,supabase" alt="Automation" /></a>
-<a href="https://skillicons.dev"><img align="right" src="https://skillicons.dev/icons?i=cloudflare,prometheus,postman,elasticsearch,sentry" alt="Security" /></a>
+<a href="https://skillicons.dev"><img align="left" vspace="4" src="https://skillicons.dev/icons?i=bash,terraform,githubactions,appwrite,jenkins,supabase" alt="Automation" /></a>
+<a href="https://skillicons.dev"><img align="right" vspace="4" src="https://skillicons.dev/icons?i=cloudflare,prometheus,postman,elasticsearch,sentry" alt="Security" /></a>
 <br clear="all" />
 
 ![NextCloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white)
@@ -118,14 +118,14 @@
 
 ## :computer: Skills - OS
 
-<a href="https://skillicons.dev"><img align="left" src="https://skillicons.dev/icons?i=windows,apple,linux,redhat,raspberrypi" alt="Operating Systems" /></a>
-<a href="https://skillicons.dev"><img align="right" src="https://skillicons.dev/icons?i=kali,arch,debian" alt="Distros" /></a>
+<a href="https://skillicons.dev"><img align="left" vspace="4" src="https://skillicons.dev/icons?i=windows,apple,linux,redhat,raspberrypi" alt="Operating Systems" /></a>
+<a href="https://skillicons.dev"><img align="right" vspace="4" src="https://skillicons.dev/icons?i=kali,arch,debian" alt="Distros" /></a>
 <br clear="all" />
 
 ## :globe_with_meridians: Skills - WebDev
 
-<a href="https://skillicons.dev"><img align="left" src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" alt="Dev Languages" /></a>
-<a href="https://skillicons.dev"><img align="right" src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases" /></a>
+<a href="https://skillicons.dev"><img align="left" vspace="4" src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" alt="Dev Languages" /></a>
+<a href="https://skillicons.dev"><img align="right" vspace="4" src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases" /></a>
 <br clear="all" />
 
 ## <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="26" height="20" /> Version Control System
