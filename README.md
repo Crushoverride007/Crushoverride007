@@ -59,7 +59,10 @@
 <br />
 
 <div align="center">
-  <img src="https://crushoverride007.vercel.app/api/top-played" alt="Spotify top played" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://crushoverride007.vercel.app/api/top-played?theme=dark" />
+    <img src="https://crushoverride007.vercel.app/api/top-played?theme=light" alt="Spotify top played" />
+  </picture>
 </div>
 
 <br />
