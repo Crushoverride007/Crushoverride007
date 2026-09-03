@@ -66,6 +66,8 @@
 
 <div align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://crushoverride007.vercel.app/api/top-played?theme=dark&layout=stack" />
+    <source media="(max-width: 600px)" srcset="https://crushoverride007.vercel.app/api/top-played?theme=light&layout=stack" />
     <source media="(prefers-color-scheme: dark)" srcset="https://crushoverride007.vercel.app/api/top-played?theme=dark" />
     <img src="https://crushoverride007.vercel.app/api/top-played?theme=light" alt="Spotify top played" />
   </picture>
