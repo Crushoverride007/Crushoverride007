@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://tryhackme.com/p/Crushoverride007">
-    <img src="assets/tryhackme-badge.png" alt="Mouhcine MESMOUKI TryHackMe stats card" width="300" />
+    <img src="assets/tryhackme-badge.png" alt="Mouhcine MESMOUKI TryHackMe stats card" width="467" />
   </a>
 </div>
 
