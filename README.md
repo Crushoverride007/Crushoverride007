@@ -17,7 +17,10 @@
 <!-- Stats -->
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Crushoverride007&rank_icon=github&hide_title=true&custom_title=Crushoverride007%27s%20Stats&show_icons=true&include_all_commits=true&theme=shadow_blue&hide=contribs&show=issues_authored" alt="Crushoverride007's Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Crushoverride007&rank_icon=github&hide_title=true&custom_title=Crushoverride007%27s%20Stats&show_icons=true&include_all_commits=true&hide=contribs&show=issues_authored&theme=github_dark" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Crushoverride007&rank_icon=github&hide_title=true&custom_title=Crushoverride007%27s%20Stats&show_icons=true&include_all_commits=true&hide=contribs&show=issues_authored&theme=shadow_blue" alt="Crushoverride007's Stats" />
+  </picture>
 </div>
 
 <br />
@@ -45,7 +48,10 @@
 -->
 
 <div align="center">
-  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Crushoverride007&theme=flat&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-orcin-eta.vercel.app/?username=Crushoverride007&no-bg=true&row=2&column=4&margin-w=15&margin-h=15&theme=gitdimmed" />
+    <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Crushoverride007&no-bg=true&row=2&column=4&margin-w=15&margin-h=15&theme=flat" alt="GitHub Trophies" />
+  </picture>
 </div>
 
 <br />
