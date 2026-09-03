@@ -106,14 +106,14 @@
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h3>☁️ Skills - Cloud</h3>
+<h3>☁️ Cloud</h3>
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure,gcp,aws" alt="Paas" /></a><br />
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kubernetes,docker,heroku,vercel,netlify" alt="Containernisation" /></a><br />
 <img src="assets/spacer.png" width="1000" height="0" alt="" />
 </td>
 <td width="50%" valign="top" align="right">
-<h3>♻️ Skills - Automation &amp; Security</h3>
+<h3>♻️ Automation &amp; Security</h3>
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash,terraform,githubactions,appwrite,jenkins,supabase" alt="Automation" /></a><br />
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cloudflare,prometheus,postman,elasticsearch,sentry" alt="Security" /></a><br />
@@ -123,13 +123,13 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>💻 Skills - OS</h3>
+<h3>💻 OS</h3>
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows,apple,linux,redhat,raspberrypi" alt="Operating Systems" /></a><br />
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kali,arch,debian" alt="Distros" /></a>
 </td>
 <td width="50%" valign="top" align="right">
-<h3>🌐 Skills - WebDev</h3>
+<h3>🌐 WebDev</h3>
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" alt="Dev Languages" /></a><br />
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases" /></a>
